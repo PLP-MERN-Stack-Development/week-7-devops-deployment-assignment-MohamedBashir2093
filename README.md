@@ -47,8 +47,8 @@ CI/CD is configured using **GitHub Actions**. On every push to the main branch:
 
 > Add screenshots of your GitHub Actions workflow or Vercel/Render build logs below:
 
-![Vercel Build Log](./neighborhood-service-directory/screenshots/image.png)
-![Render Deployment Log](./neighborhood-service-directory/screenshots/Screenshot%202025-07-18%20152652.png)
+![Vercel Build Log](./screenshots/image.png)
+![Render Deployment Log](./screenshots/Screenshot%202025-07-18%20152652.png)
 
 ---
 
